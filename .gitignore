@@ -1,1 +1,12 @@
-build
+*.opensdf 
+*.exe
+*.suo
+*.obj
+*.user
+*.tlog
+*.log
+*.lib
+*.pdb
+*.lastbuildstate
+*.unsuccessfulbuild
+build/*
